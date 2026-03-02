@@ -23,7 +23,7 @@ repository               : "florianstijven/florianstijven.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "pasfoto.jpg"
   name             : "Florian Stijven"
   pronouns         : # example: "she/her"  
   bio              : 
@@ -33,7 +33,7 @@ author:
   email            : "florian.stijven@kuleuven.be" 
 
   # Academic websites
-  academia         : "https://www.kuleuven.be/wieiswie/nl/person/00157247"
+  academia         : # "https://www.kuleuven.be/wieiswie/nl/person/00157247"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar-google-com.kuleuven.e-bronnen.be/citations?view_op=list_works&hl=en&user=NXkETpYAAAAJ"
   inspire-hep      : # URL
