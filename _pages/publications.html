@@ -11,16 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-## Publication List
-
-{% for post in site.publications reversed %}
-- [{{ post.title }}]({{ post.url }})
-{% endfor %}
-
----
-
-## Detailed Publications
-
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
@@ -41,6 +31,5 @@ author_profile: true
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
-
 
 
