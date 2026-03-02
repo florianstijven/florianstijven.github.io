@@ -1,0 +1,13 @@
+---
+title: "The Evaluation of Time-to-Event Surrogate Endpoints for a Time-to-Event True Endpoint, Based on Causal Inference"
+collection: presentations
+type: "Research Day Presentation"
+permalink: /presentation/2022-10-ibiostat-leuven
+venue: "I-BioStat Research Day"
+date: 2022-10-18
+location: "Leuven, Belgium"
+---
+
+Presentation at the I-BioStat Research Day discussing methods for evaluating time-to-event surrogate endpoints using causal inference approaches.
+
+**Authors:** Florian Stijven, Geert Molenberghs, Ariel Alonso, Ingrid Van Keilegom
