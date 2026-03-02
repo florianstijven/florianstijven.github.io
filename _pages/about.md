@@ -7,20 +7,29 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year PhD student in biostatistics at [KU Leuven](https://www.kuleuven.be/) with a passion for developing statistical methods and computational tools to address complex challenges in biomedical research. Through my doctoral work, I have gained expertise in designing and implementing novel statistical approaches while collaborating with domain experts across public health and clinical research. I am committed to making rigorous statistical methodology accessible and reproducible, and I aim to contribute meaningfully to evidence-based science and public health practice.
+I am a final-year PhD student in biostatistics at [KU Leuven](https://www.kuleuven.be/) under the supervision of [Ariel Alonso](https://www.kuleuven.be/wieiswie/en/person/00065129), [Geert Molenberghs](https://www.kuleuven.be/wieiswie/en/person/u0056633), and [Ingrid Van Keilegom](https://feb.kuleuven.be/research/decision-sciences-and-information-management/orstat/ingrid-van-keilegom). 
+My doctoral research focuses on developing and improving methods for the statistical evaluation of putative surrogate endpoints. My most recent research work in this area is on the meta-analytic evaluation of complex surrogate endpoints where machine learning is used in a statistically principled way. This work is available as a [preprint](https://arxiv.org/abs/2509.01737). 
+In my doctoral research, I have also developed methods for improving the statistical efficiency and interpretability of clinical trials for progressive diseases, with a particular focus on Alzheimer's disease. Currently, I am working to generalize these methods for the modelling of multivariate longitudinal outcomes in progressive disease. 
+
+I am committed to making rigorous statistical methodology accessible and reproducible. In this regard, I maintain two R packages: **[Surrogate](https://cran.r-project.org/package=Surrogate)** (available on CRAN), which provides a comprehensive suite of methods for evaluating surrogate endpoints developed by me and (mostly) others at I-BioStat, KU Leuven, and **[TCT](https://github.com/florianstijven/TCT)** (available on GitHub), which implements methods for progressive disease modelling. 
 
 I hold a Master in Biostatistics (Summa Cum Laude) from [Hasselt University](https://www.uhasselt.be/) and a Bachelor in Medicine (Summa Cum Laude) from [Ghent University](https://www.ugent.be/).
 
 ## Education
 
-* **PhD in Biostatistics** (In Progress) - [KU Leuven](https://www.kuleuven.be/)
+* **PhD in Biostatistics** (Expected graduation: September 2026) - [KU Leuven](https://www.kuleuven.be/)
 * **Master in Biostatistics** (Summa Cum Laude) - [Hasselt University](https://www.uhasselt.be/)
 * **Bachelor in Medicine** (Summa Cum Laude) - [Ghent University](https://www.ugent.be/)
 
 ## Research Interests
 
-* Epidemiology and causal inference
-* High-dimensional data analysis
-* Statistical methodology development
-* Computational statistics
-* Application of statistical methods to public health and clinical research
+* Surrogate endpoint evaluation methods
+* Causal inference and information theory
+* Clinical trial design and analysis for progressive diseases
+* Statistical methodology for Alzheimer's disease research
+* Multivariate longitudinal data analysis
+
+## Software
+
+* **[Surrogate](https://cran.r-project.org/package=Surrogate)** - R package (CRAN): Comprehensive methods for surrogate endpoint evaluation
+* **[TCT](https://github.com/florianstijven/TCT)** - R package (GitHub): Methods for progressive disease modelling
