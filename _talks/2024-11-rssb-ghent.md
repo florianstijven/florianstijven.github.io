@@ -1,6 +1,6 @@
 ---
 title: "Meta TCT: Towards Interpretable Treatment Effects in Clinical Trials for Progressive Diseases"
-collection: presentations
+collection: talks
 type: "Contributed Talk"
 permalink: /presentation/2024-11-rssb-ghent
 venue: "The 31st Annual Meeting of the Royal Statistical Society of Belgium"

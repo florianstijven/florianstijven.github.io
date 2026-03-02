@@ -1,6 +1,6 @@
 ---
 title: "Interpreting the Proportion Explained: There is no Escaping the Need for Unverifiable Assumptions"
-collection: presentations
+collection: talks
 type: "Contributed Paper"
 permalink: /presentation/2024-03-enar-baltimore
 venue: "ENAR Spring Meeting"

@@ -1,6 +1,6 @@
 ---
 title: "Evaluating Surrogacy for Time-to-Event Endpoints: An Information-Theoretic Approach Based on Causal Inference"
-collection: presentations
+collection: talks
 type: "Contributed Paper"
 permalink: /presentation/2024-12-ibc-atlanta
 venue: "International Biometric Conference (IBC)"

@@ -1,8 +1,8 @@
 ---
 title: "The Evaluation of Time-to-Event Surrogate Endpoints for a Time-to-Event True Endpoint, Based on Causal Inference"
-collection: presentations
+collection: talks
 type: "Research Day Presentation"
-permalink: /presentation/2022-10-ibiostat-leuven
+permalink: /talks/2022-10-ibiostat-leuven
 venue: "I-BioStat Research Day"
 date: 2022-10-18
 location: "Leuven, Belgium"

@@ -34,7 +34,14 @@ Rigorous causal inference underpins my methodological work:
 
 See below for my publications related to these research areas. You can also find my complete publication list on my [Google Scholar profile](https://scholar-google-com.kuleuven.e-bronnen.be/citations?view_op=list_works&hl=en&user=NXkETpYAAAAJ) and [ORCID](https://orcid.org/0000-0002-4574-8261).
 
+### Publication List
+
 {% include base_path %}
+{% for post in site.publications reversed %}
+- [{{ post.title }}]({{ post.url }})
+{% endfor %}
+
+### Full Publication Details
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
