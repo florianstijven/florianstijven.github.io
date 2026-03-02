@@ -19,7 +19,7 @@ I hold a Master in Biostatistics (Summa Cum Laude) from [Hasselt University](htt
 ## Education
 
 * **PhD in Biostatistics** (Expected graduation: September 2026) - [KU Leuven](https://www.kuleuven.be/)
-* **Master in Biostatistics** (Summa Cum Laude) - [Hasselt University](https://www.uhasselt.be/)
+* **Master in Biostatistics** (Summa Cum Laude) - [UHasselt](https://www.uhasselt.be/)
 * **Bachelor in Medicine** (Summa Cum Laude) - [Ghent University](https://www.ugent.be/)
 
 ## Research Interests
