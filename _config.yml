@@ -84,10 +84,14 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  journals:
-    title: 'Journal Articles'
-  preprints:
-    title: 'Preprints'
+  surrogate_endpoints:
+    title: 'Surrogate Endpoint Evaluation'
+  causal_inference:
+    title: 'Causal Inference & Treatment Effects'
+  progressive_diseases:
+    title: 'Progressive Disease Trials'
+  vaccine_evaluation:
+    title: 'Vaccine Efficacy & Evaluation'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews

@@ -1,7 +1,7 @@
 ---
 title: "Assessing the Operational Characteristics of the Individual Causal Association as a Metric of Surrogacy in the Binary Continuous Setting"
 collection: publications
-category: journals
+category: surrogate_endpoints
 permalink: /publication/2025-01-ica-binary-continuous
 excerpt: 'Assessment of Individual Causal Association for binary-continuous surrogacy'
 date: 2025-01-01

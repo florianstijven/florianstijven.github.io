@@ -1,7 +1,7 @@
 ---
 title: "Optimal treatment regime estimation in practice: challenges and choices in a randomized clinical trial for depression"
 collection: publications
-category: journals
+category: progressive_diseases
 permalink: /publication/2025-01-07-optimal-treatment
 excerpt: 'Practical challenges in optimal treatment regime estimation from RCTs'
 date: 2025-01-07

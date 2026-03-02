@@ -1,7 +1,7 @@
 ---
 title: "An information-theoretic approach for the assessment of a continuous outcome as a surrogate for a binary true endpoint based on causal inference: Application to vaccine evaluation"
 collection: publications
-category: journals
+category: vaccine_evaluation
 permalink: /publication/2024-01-info-surrogate-vaccine
 excerpt: 'Information-theoretic surrogate evaluation methods applied to vaccine efficacy'
 date: 2024-01-01

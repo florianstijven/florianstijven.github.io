@@ -1,7 +1,7 @@
 ---
 title: "Multiple Surrogates in the Meta-Analytic Setting for Normally Distributed Endpoints"
 collection: publications
-category: journals
+category: surrogate_endpoints
 permalink: /publication/2025-10-02-multiple-surrogates
 excerpt: 'Methods for evaluating multiple surrogates in meta-analytic settings'
 date: 2025-10-02

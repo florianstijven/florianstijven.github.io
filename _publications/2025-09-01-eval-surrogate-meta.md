@@ -1,7 +1,7 @@
 ---
 title: "Evaluation of Surrogate Endpoints Based on Meta-Analysis with Surrogate Indices"
 collection: publications
-category: preprints
+category: surrogate_endpoints
 permalink: /publication/2025-09-01-eval-surrogate-meta
 excerpt: 'Preprint on surrogate endpoint evaluation using meta-analysis'
 date: 2025-09-01

@@ -1,7 +1,7 @@
 ---
 title: "Evaluating Hemagglutination Inhibition Antibody Titers as a Correlate of Protection for Influenza: A Sensitivity Analysis Based on Information Theory and Causal Inference"
 collection: publications
-category: journals
+category: vaccine_evaluation
 permalink: /publication/2024-hemagg-influenza
 excerpt: 'Evaluation of HI antibody titers as influenza correlate of protection'
 date: 2024-01-01

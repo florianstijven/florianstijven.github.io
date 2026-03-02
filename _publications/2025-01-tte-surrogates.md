@@ -1,7 +1,7 @@
 ---
 title: "Evaluating time-to-event surrogates for time-to-event true endpoints: an information-theoretic approach based on causal inference"
 collection: publications
-category: journals
+category: surrogate_endpoints
 permalink: /publication/2025-01-tte-surrogates
 excerpt: 'Information-theoretic methods for time-to-event surrogate evaluation'
 date: 2025-01-01
