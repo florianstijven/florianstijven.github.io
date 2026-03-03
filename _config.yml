@@ -92,6 +92,8 @@ publication_category:
     title: 'Progressive Disease Trials'
   vaccine_evaluation:
     title: 'Vaccine Efficacy & Evaluation'
+  other:
+    title: 'Other Research'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews

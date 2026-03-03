@@ -1,7 +1,7 @@
 ---
 title: "Comparing COVID-19 Incidences Longitudinally Per Economic Sector Against the Background of Preventive Measures and Vaccination"
 collection: publications
-category: vaccine_evaluation
+category: other
 permalink: /publication/2023-09-covid-incidence
 excerpt: 'Longitudinal analysis of COVID-19 incidence across economic sectors'
 date: 2023-09-01

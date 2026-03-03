@@ -1,7 +1,7 @@
 ---
 title: "Proportion of treatment effect explained: An overview of interpretations"
 collection: publications
-category: causal_inference
+category: surrogate_endpoints
 permalink: /publication/2024-07-proportion-treatment
 excerpt: 'Overview of interpretations of proportion of treatment effect explained'
 date: 2024-07-01
