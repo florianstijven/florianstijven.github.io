@@ -8,6 +8,6 @@ date: 2024-11-08
 location: "Ghent, Belgium"
 ---
 
-Contributed talk at the Royal Statistical Society of Belgium presenting methods for generating interpretable treatment effect estimates in clinical trials for progressive diseases using meta-trial components.
+# Contributed talk at the Royal Statistical Society of Belgium presenting methods for generating interpretable treatment effect estimates in clinical trials for progressive diseases using meta-trial components.
 
 **Authors:** Florian Stijven, Craig Mallinckrodt, Geert Molenberghs, Ariel Alonso, Sam Dickson, Suzanne Hendrix

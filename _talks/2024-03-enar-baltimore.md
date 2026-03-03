@@ -8,6 +8,6 @@ date: 2024-03-11
 location: "Baltimore, USA"
 ---
 
-Contributed paper at the ENAR Spring Meeting discussing the interpretation of the proportion of treatment effect explained and the role of unverifiable assumptions in mediation analysis.
+# Contributed paper at the ENAR Spring Meeting discussing the interpretation of the proportion of treatment effect explained and the role of unverifiable assumptions in mediation analysis.
 
 **Authors:** Florian Stijven, Ariel Alonso, Geert Molenberghs
