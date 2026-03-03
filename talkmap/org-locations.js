@@ -10,6 +10,11 @@ var addressPoints = [
     -76.610759
   ],
   [
+    "Estimating the Wasserstein barycenter of one-dimensional distributions under sparse sampling<br />The 32nd Annual Meeting of the Royal Statistical Society of Belgium; Brussels, Belgium",
+    50.8467372,
+    4.352493
+  ],
+  [
     "Evaluating Surrogacy for Time-to-Event Endpoints: An Information-Theoretic Approach Based on Causal Inference<br />International Biometric Conference (IBC); Atlanta, USA",
     33.7544657,
     -84.3898151
