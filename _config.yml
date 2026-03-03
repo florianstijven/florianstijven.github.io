@@ -86,12 +86,8 @@ author:
 publication_category:
   surrogate_endpoints:
     title: 'Surrogate Endpoint Evaluation'
-  causal_inference:
-    title: 'Causal Inference & Treatment Effects'
   progressive_diseases:
     title: 'Progressive Disease Trials'
-  vaccine_evaluation:
-    title: 'Vaccine Efficacy & Evaluation'
   other:
     title: 'Other Research'
 
