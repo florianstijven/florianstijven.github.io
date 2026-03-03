@@ -8,6 +8,5 @@ date: 2024-12-09
 location: "Atlanta, USA"
 ---
 
-# Contributed paper presentation at the International Biometric Conference discussing information-theoretic approaches for evaluating time-to-event surrogacy based on causal inference principles.
 
 **Authors:** Florian Stijven, Ariel Alonso, Ingrid Van Keilegom, Geert Molenberghs

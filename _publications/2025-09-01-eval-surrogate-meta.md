@@ -9,4 +9,3 @@ venue: 'arXiv'
 paperurl: 'https://doi.org/10.48550/arxiv.2509.01737'
 ---
 
-Evaluation of surrogate endpoints is an important aspect of clinical trial design. This preprint discusses methods for evaluating surrogate endpoints using meta-analysis approaches with surrogate indices.

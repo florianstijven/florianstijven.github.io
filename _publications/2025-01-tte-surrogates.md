@@ -9,4 +9,3 @@ venue: 'Lifetime Data Analysis'
 paperurl: 'https://doi.org/10.1007/s10985-024-09638-7'
 ---
 
-This paper presents information-theoretic approaches based on causal inference for evaluating surrogates in time-to-event settings, addressing an important gap in the surrogate evaluation literature.

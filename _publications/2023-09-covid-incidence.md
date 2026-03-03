@@ -9,4 +9,3 @@ venue: 'Biometrics'
 paperurl: 'https://doi.org/10.1111/biom.13766'
 ---
 
-# This paper analyzes COVID-19 incidence trends across different economic sectors, accounting for preventive measures and vaccination campaigns.

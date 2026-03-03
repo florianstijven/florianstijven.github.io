@@ -8,6 +8,5 @@ date: 2022-10-18
 location: "Leuven, Belgium"
 ---
 
-# Presentation at the I-BioStat Research Day discussing methods for evaluating time-to-event surrogate endpoints using causal inference approaches.
 
 **Authors:** Florian Stijven, Geert Molenberghs, Ariel Alonso, Ingrid Van Keilegom

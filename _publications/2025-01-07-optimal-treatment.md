@@ -9,4 +9,3 @@ venue: 'Biometrics'
 paperurl: 'https://doi.org/10.1093/biomtc/ujaf026'
 ---
 
-This paper addresses practical challenges and methodological choices when implementing optimal treatment regime estimation methods in a real randomized clinical trial for depression.
