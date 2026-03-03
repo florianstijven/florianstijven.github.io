@@ -7,8 +7,8 @@ author_profile: true
 
 ## Research Overview
 
-My doctoral research centers on developing and improving statistical methods for evaluating surrogate endpoints with applications in, among other things, oncology and vaccine studies. 
-I am currently also doing research on methods for multivariate longitudinal data with monotonicity constraints, with applications in the modelling of aging and neuro-degenerative diseases. 
+My doctoral research centers on developing and improving statistical methods for evaluating surrogate endpoints with applications in, among other areas, oncology and vaccine studies. 
+I am currently also doing research on methods for multivariate longitudinal data where the underlying processes are irreversible, with applications in the modelling of aging and neuro-degenerative diseases. 
 
 ## Research Areas
 
